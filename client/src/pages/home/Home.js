@@ -7,8 +7,7 @@ import Info from '../../components/info/Info'
 
 export const Home = () => {
   return (
-    <div className='containe'>
-
+    <div className='container'>
         <div className='navbar'>
         <Navbar/>
         </div>

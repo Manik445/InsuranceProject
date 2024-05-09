@@ -8,8 +8,8 @@
 }
 /* Text section */
 .text-section {
-    width: 60%;
-    padding: 0 32px;
+    width: 50%;
+    padding: 32px;
 }
 .text-headline {
     margin-bottom: 12px;
@@ -79,6 +79,7 @@
 /* Image section */
 .hero-image-section {
     width: 40%;
+    height: 60%;
     max-width: 100%;
     text-align: center;
 }
