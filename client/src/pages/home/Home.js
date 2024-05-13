@@ -25,7 +25,7 @@ export const Home = () => {
         </div>
 
         <div className='footer'>
-        <Footer/>     
+        {/* <Footer/>      */}
         </div>
 
     </div>
