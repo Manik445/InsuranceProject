@@ -31,14 +31,14 @@ function Navbar() {
           </Link>
         </li>
         <li>
-          <a href="#Policies" className="navbar-links">
-            Policies
-          </a>
+        <Link to="/Policies" className="navbar-links">
+      Policies
+        </Link>
         </li>
         <li>
-          <a href="#about" className="navbar-links">
-            About
-          </a>
+        <Link to="/about" className="navbar-links">
+      About
+        </Link>
         </li>
         <li>
           <a href="#reviews" className="navbar-links">
@@ -46,9 +46,9 @@ function Navbar() {
           </a>
         </li>
         <li>
-          <a href="#partners" className="navbar-links">
-            Partners
-          </a>
+        <Link to="/Partners" className="navbar-links">
+        Partners
+         </Link>
         </li>
       </ul>
 
